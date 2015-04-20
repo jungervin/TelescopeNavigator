@@ -10,4 +10,4 @@ First, must create a Wifi network on RPi like this: http://elinux.org/RPI-Wirele
 
 After that copy the tcp_serial_redirect.py to the RPi and make it runnable at boot time.
 
-https://github.com/jungervin/TelescopeNavigator/blob/master/device-2015-04-20-182455.png
+
