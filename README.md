@@ -10,5 +10,6 @@ First, must create a Wifi network on RPi like this: http://elinux.org/RPI-Wirele
 
 After that copy the tcp_serial_redirect.py to the RPi and make it runnable at boot time.
 
+https://play.google.com/store/apps/details?id=junge.telescopenavigator
 
 https://www.youtube.com/watch?v=IBUZLQLN4ls
