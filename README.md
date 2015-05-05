@@ -6,7 +6,7 @@ Supported telescopes: Skywatcher and compatible controllers.
 
 Required hardwares: Android 4.0 or higher Android phone, Raspberry Pi with Wifi and USB to Serial adapter.
 
-First, must create a Wifi network on RPi like this: http://elinux.org/RPI-Wireless-Hotspot
+First, must create a Wifi network on RPi like this:  http://www.maketecheasier.com/set-up-raspberry-pi-as-wireless-access-point
 
 After that copy the tcp_serial_redirect.py to the RPi and make it runnable at boot time.
 
